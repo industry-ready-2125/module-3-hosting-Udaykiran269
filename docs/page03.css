@@ -1,1 +1,27 @@
+body{
+    background: linear-gradient(185deg, gray, black);
+}
+.Main_Heading{
+    height: 150px;
+    background-image: linear-gradient(90deg,rgb(246, 33, 68),rgb(222, 23, 159));
+    -webkit-backdrop-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    font-weight: 200px;
+}
+
+.Heading_Text{
+    color: rgb(246, 19, 26);
+    padding: 15px;
+    align-items: center;
+}
+
+.img-decor{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px teal;
+}
+
+
+
 
